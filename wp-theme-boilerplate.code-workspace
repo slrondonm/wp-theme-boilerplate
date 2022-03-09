@@ -1,0 +1,27 @@
+{
+    "folders": [
+        {
+            "path": "C:/laragon/www/wp-themes/"
+        }
+    ],
+    "settings": {
+        "phpcs.enable": true,
+        "phpcs.executablePath": "C:/Users/USUARIO/AppData/Roaming/Composer/vendor/bin/phpcs",
+        "phpcs.composerJsonPath": "C:/laragon/www/wp-themes/wp-content/themes/wp-theme-boilerplate/composer.json",
+        "phpcs.standard": "WordPress",
+        "editor.wordWrap": "on",
+        "files.autoSave": "onFocusChange",
+        "editor.fontSize": 16,
+        "editor.fontFamily": "'Fire Code', 'Courier New', monospace",
+        "editor.renderWhitespace": "all",
+        "editor.bracketPairColorization.enabled": true,
+        "editor.formatOnSave": true,
+        "prettier.enable": false,
+       	"intelephense.format.enable": false,
+        "php-docblocker.alignParams": true,
+        "php-docblocker.author": {
+            "name": "IDEAMOS TU WEB",
+            "email": "info@ideamostuweb.com"
+        },
+    }
+}
